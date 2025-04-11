@@ -2,6 +2,8 @@
 
 A real-time object detection system that tracks cars and pedestrians in video streams using OpenCV and Haar Cascade classifiers.
 
+![image](https://github.com/user-attachments/assets/481f162f-ec04-4d84-b234-4e8c74b4ca65)
+
 ## Features
 
 - 🚗 Real-time car detection
